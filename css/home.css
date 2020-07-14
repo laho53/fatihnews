@@ -1,0 +1,32 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.right-card-image {
+  float: left;
+  margin:10px 10px 10px 0px;
+}
+
+#carouselExampleIndicators {
+  margin-bottom: 1.5rem;
+}
+
+.badge {
+  font-size: small;
+}
+
+#twitter-timeline {
+  position:relative;
+  height:500px;
+}
+
+.timeline-container {
+  height:224px;
+  overflow: visible;
+  max-height:100%;
+}
